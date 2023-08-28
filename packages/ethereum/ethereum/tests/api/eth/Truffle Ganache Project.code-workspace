@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"name": "Uniswap-V3",
+			"path": "../../../../../../../../../../IDEAGA~1/AppData/Local/Temp/contracts/Uniswap-V3"
+		}
+	],
+	"settings": {
+		"solidity.formatter": "forge",
+		"solidity.defaultCompiler": "localNodeModule"
+	}
+}
