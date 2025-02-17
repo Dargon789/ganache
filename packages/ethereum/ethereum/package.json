@@ -85,7 +85,7 @@
     "semaphore": "1.1.0",
     "subleveldown": "6.0.1",
     "tmp-promise": "3.0.2",
-    "ws": "8.2.3"
+    "ws": "8.18.0"
   },
   "devDependencies": {
     "@ganache/flavor": "0.10.1",
