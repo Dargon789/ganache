@@ -56,7 +56,7 @@
     "typescript": "5.1.6"
   },
   "dependencies": {
-    "node-gyp-build": "4.5.0",
+    "node-gyp-build": "4.8.4",
     "secp256k1": "4.0.3"
   }
 }
