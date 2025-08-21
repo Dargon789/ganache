@@ -57,7 +57,7 @@
     "@ethereumjs/trie": "5.0.4",
     "@ethereumjs/tx": "4.1.1",
     "@ethereumjs/util": "8.0.5",
-    "@ethereumjs/vm": "6.4.1",
+    "@ethereumjs/vm": "7.0.0",
     "@ganache/colors": "0.4.1",
     "@ganache/console.log": "0.4.1",
     "@ganache/ethereum-address": "0.9.1",
@@ -69,12 +69,12 @@
     "@ganache/rlp": "0.9.1",
     "@ganache/secp256k1": "0.5.1",
     "@ganache/utils": "0.9.1",
-    "bip39": "3.0.4",
+    "bip39": "3.1.0",
     "chalk": "4.1.2",
     "emittery": "0.10.0",
     "encoding-down": "7.1.0",
     "env-paths": "2.2.1",
-    "eth-sig-util": "2.5.3",
+    "eth-sig-util": "3.0.1",
     "leveldown": "6.1.0",
     "levelup": "5.1.1",
     "lodash.clonedeep": "4.5.0",
@@ -113,7 +113,7 @@
     "ts-node": "10.9.1",
     "typedoc": "0.24.8",
     "typescript": "5.1.6",
-    "web3": "1.7.0"
+    "web3": "4.0.1"
   },
   "optionalDependencies": {
     "bufferutil": "4.0.5",
