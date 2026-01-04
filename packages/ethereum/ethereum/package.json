@@ -109,11 +109,11 @@
     "nyc": "15.1.0",
     "shx": "0.3.3",
     "solc": "0.8.11",
-    "superagent": "6.1.0",
+    "superagent": "10.2.2",
     "ts-node": "10.9.1",
     "typedoc": "0.24.8",
     "typescript": "5.1.6",
-    "web3": "1.7.0"
+    "web3": "4.0.1"
   },
   "optionalDependencies": {
     "bufferutil": "4.0.5",
